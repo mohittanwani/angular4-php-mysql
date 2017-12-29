@@ -1,0 +1,9 @@
+input.ng-invalid.ng-touched {
+	border: 1px solid red;
+}
+p.help-block{
+	color: red !important;
+}
+.data-table-header{
+	text-align: center !important;
+}
